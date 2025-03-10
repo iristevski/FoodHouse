@@ -1,4 +1,4 @@
-# Restaurant Management System (Windows Desktop - Qt)
+# Restaurant Management System (Qt Application)
 
 This project is a Windows desktop application built using Qt. It is designed to help restaurant management by providing a system for managing menu items, users, orders, and generating fiscal bills. It connects to a database that stores all the necessary data, allowing users to interact with it through a graphical interface.
 
